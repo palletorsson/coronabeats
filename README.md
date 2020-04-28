@@ -1,4 +1,4 @@
-# coronabeats
+# Corona Sequence Music
  
 * This is the second iteration of coronabeats using tone.js 
 * First one here: https://github.com/palletorsson/programmingforartists/tree/master/javascript/tone
